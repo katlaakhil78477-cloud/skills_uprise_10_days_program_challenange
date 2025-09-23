@@ -1,0 +1,13 @@
+{
+  "name": "electron-firebase-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "firebase": "^10.0.0",
+    "electron": "^37.0.0"
+  }
+}
